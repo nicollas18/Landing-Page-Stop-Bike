@@ -1,0 +1,30 @@
+@media screen and (max-width: 920px) {
+    
+    .container-inicio {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .grid-servicos > div {
+        flex-direction: column;
+    }
+
+    .about {
+        flex-direction: column;
+    }
+
+    .about > div:last-child {
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    .cards {
+        flex-direction: column;
+        padding: 0 60px;
+    }
+
+    .card1, .card2, .card3 {
+        margin-bottom: 20px;
+        
+    }
+}
