@@ -1,4 +1,4 @@
-#🚴 Landing Page para Loja de Bicicletas
+# 🚴 Landing Page para Loja de Bicicletas
 
 Descrição:
 Este projeto envolve a criação de uma landing page responsiva para uma loja de bicicletas. Utilizei HTML, CSS e JavaScript para desenvolver uma página que proporciona uma excelente experiência de usuário em qualquer dispositivo. O objetivo foi criar um layout limpo, funcional e atraente que representasse bem a marca e os produtos da loja.
