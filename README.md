@@ -14,7 +14,7 @@ Este projeto envolve a criação de uma landing page responsiva para uma loja de
 * Interatividade: Pequenas interações implementadas com JavaScript para melhorar a experiência do usuário.
 Como Utilizar
 
-**Estrutura do Projeto**
+**Estrutura do Projeto:**
 * index.html: Arquivo principal da página.
 * style.css: Arquivo de estilos CSS.
 * script.js: Arquivo de scripts JavaScript.
